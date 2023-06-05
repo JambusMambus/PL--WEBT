@@ -1,0 +1,19 @@
+{
+    "name": "danbi/untitled6",
+    "require": {
+        "endroid/qr-code": "^4.8",
+        "twig/twig": "^3.6",
+        "doctrine/dbal": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Danbi\\Untitled6\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JambusMambus",
+            "email": "9026@htl.rennweg.at"
+        }
+    ]
+}
